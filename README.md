@@ -1,7 +1,7 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/thinkbleworg/demo/](https://my-json-server.typicode.com/thinkbleworg/demo/)
 
-## Use your own data
+## Example
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+[https://my-json-server.typicode.com/thinkbleworg/demo/profile](https://my-json-server.typicode.com/thinkbleworg/demo/profile)
