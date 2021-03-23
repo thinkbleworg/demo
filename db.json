@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "profile": {
+      "name": "Nathan Keller"
+    },
+    "buyerInfo": {
+      "email": "albertyeong@email.com",
+      "name": "Albert Yeong",
+      "amount": "USD 20,000",
+      "company": "Tiong Hoe Trading Pte Ltd",
+      "companyLocation": "Singapore",
+      "exportLocation": "Singapore"
+    }
   }
 }
